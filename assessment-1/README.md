@@ -1,6 +1,6 @@
 Here's a README for the solution:
 
-# Airport Coffee (Problem C)
+# Airport Coffee (Problem A)
 
 ## Problem Summary
 

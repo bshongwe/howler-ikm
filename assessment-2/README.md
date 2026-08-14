@@ -1,6 +1,6 @@
 Here's a README.md for this problem and solution:
 
-# Problem A — Most Likely Dice Sum
+# Problem B — Most Likely Dice Sum
 
 ## Problem Description
 
